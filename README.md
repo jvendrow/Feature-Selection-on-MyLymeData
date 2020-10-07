@@ -6,7 +6,7 @@
 By J. Vendrow, J. Haddock, D. Needell, and L. Johnson.
 [*arXiv preprint*], 2020. [[arXiv]](https://arxiv.org/abs/2009.09087)
 
-&nbsp;&nbsp;
+<br /><br />
 
 <p align="center">
 <img width="700px" src="https://github.com/jvendrow/Feature-Selection-on-MyLymeData/blob/master/figures/Table_1.png" alt="table_1">
@@ -19,7 +19,7 @@ By J. Vendrow, J. Haddock, D. Needell, and L. Johnson.
 <p align="center">
 <img width="700px" src="https://github.com/jvendrow/Feature-Selection-on-MyLymeData/blob/master/figures/Table_5.png" alt="table_5">
 </p>
-&nbsp;&nbsp;&nbsp;
+<br /><br />
 <p align="center">
 <img width="700px" src="https://github.com/jvendrow/Feature-Selection-on-MyLymeData/blob/master/figures/Figure_8.png" alt="figure_8">
 </p>
