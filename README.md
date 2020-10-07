@@ -2,8 +2,8 @@
 
 <br/> This repository contains the main codebase for the paper: <br/>
 
-*"Feature Selection on Lyme Disease Patient Survey Data."*
-By J. Vendrow, J. Haddock, D. Needell, and L. Johnson.
+*"Feature Selection on Lyme Disease Patient Survey Data."* <br/>
+By J. Vendrow, J. Haddock, D. Needell, and L. Johnson. <br/>
 *arXiv preprint*, 2020. [[arXiv]](https://arxiv.org/abs/2009.09087)
 
 <br /><br />
