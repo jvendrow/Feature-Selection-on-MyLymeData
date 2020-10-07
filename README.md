@@ -6,21 +6,21 @@
 By J. Vendrow, J. Haddock, D. Needell, and L. Johnson.
 [*arXiv preprint*], 2020. [[arXiv]](https://arxiv.org/abs/2009.09087)
 
-&nbsp;
+&nbsp;&nbsp;
 
 <p align="center">
-<img width="600px" src="https://github.com/jvendrow/Feature-Selection-on-MyLymeData/blob/master/figures/Table_1.png" alt="logo">
+<img width="600px" src="https://github.com/jvendrow/Feature-Selection-on-MyLymeData/blob/master/figures/Table_1.png" alt="table_1">
 </p>
-&nbsp;
+&nbsp;&nbsp;
 <p align="center">
-<img width="600px" src="https://github.com/jvendrow/Feature-Selection-on-MyLymeData/blob/master/figures/Figure_2.png" alt="logo">
+<img width="600px" src="https://github.com/jvendrow/Feature-Selection-on-MyLymeData/blob/master/figures/Figure_2.png" alt="figure_2">
 </p>
-&nbsp;
+&nbsp;&nbsp;
 <p align="center">
-<img width="600px" src="https://github.com/jvendrow/Feature-Selection-on-MyLymeData/blob/master/figures/Table_5png" alt="logo">
+<img width="600px" src="https://github.com/jvendrow/Feature-Selection-on-MyLymeData/blob/master/figures/Table_5.png" alt="table_5">
 </p>
-&nbsp;
+&nbsp;&nbsp;
 <p align="center">
-<img width="600px" src="https://github.com/jvendrow/Feature-Selection-on-MyLymeData/blob/master/figures/Figure_8.png" alt="logo">
+<img width="600px" src="https://github.com/jvendrow/Feature-Selection-on-MyLymeData/blob/master/figures/Figure_8.png" alt="figure_8">
 </p>
 
