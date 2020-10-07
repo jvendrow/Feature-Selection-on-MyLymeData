@@ -9,18 +9,18 @@ By J. Vendrow, J. Haddock, D. Needell, and L. Johnson.
 &nbsp;&nbsp;
 
 <p align="center">
-<img width="800px" src="https://github.com/jvendrow/Feature-Selection-on-MyLymeData/blob/master/figures/Table_1.png" alt="table_1">
+<img width="700px" src="https://github.com/jvendrow/Feature-Selection-on-MyLymeData/blob/master/figures/Table_1.png" alt="table_1">
 </p>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 <p align="center">
-<img width="800px" src="https://github.com/jvendrow/Feature-Selection-on-MyLymeData/blob/master/figures/Figure_2.png" alt="figure_2">
+<img width="700px" src="https://github.com/jvendrow/Feature-Selection-on-MyLymeData/blob/master/figures/Figure_2.png" alt="figure_2">
 </p>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 <p align="center">
-<img width="800px" src="https://github.com/jvendrow/Feature-Selection-on-MyLymeData/blob/master/figures/Table_5.png" alt="table_5">
+<img width="700px" src="https://github.com/jvendrow/Feature-Selection-on-MyLymeData/blob/master/figures/Table_5.png" alt="table_5">
 </p>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 <p align="center">
-<img width="800px" src="https://github.com/jvendrow/Feature-Selection-on-MyLymeData/blob/master/figures/Figure_8.png" alt="figure_8">
+<img width="700px" src="https://github.com/jvendrow/Feature-Selection-on-MyLymeData/blob/master/figures/Figure_8.png" alt="figure_8">
 </p>
 
