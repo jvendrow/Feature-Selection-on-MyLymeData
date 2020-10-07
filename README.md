@@ -8,7 +8,7 @@ By J. Vendrow, J. Haddock, D. Needell, and L. Johnson.
 
 &nbsp;
 
-![](figures/Table_1.png =250x)
+![](figures/Table_1.png?s=200)
 &nbsp;
 ![](figures/Figure_2.png)
 &nbsp;
