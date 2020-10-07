@@ -8,7 +8,7 @@ By J. Vendrow, J. Haddock, D. Needell, and L. Johnson.
 
 <br /><br />
 
-<p align="center">
+<p align="left">
 <img width="700px" src="https://github.com/jvendrow/Feature-Selection-on-MyLymeData/blob/master/figures/Table_1.png" alt="table_1">
 </p>
 <br /><br />
