@@ -1,4 +1,4 @@
-## Features Selection on MyLymeData (repository for paper)
+## Feature Selection on MyLymeData (repository for paper)
 
 <br/> This repository contains the main codebase for the paper: <br/>
 
@@ -7,6 +7,10 @@ By J. Vendrow, J. Haddock, D. Needell, and L. Johnson.
 [*arXiv preprint*], 2020. [[arXiv]](https://arxiv.org/abs/2009.09087)
 
 &nbsp;
+
+<p align="center">
+<img width="600px" src="https://github.com/jvendrow/Feature-Selection-on-MyLymeData/blob/master/figures/Table_1.png" alt="logo">
+</p>
 
 ![](figures/Table_1.png?s=200)
 &nbsp;
