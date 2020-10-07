@@ -11,12 +11,16 @@ By J. Vendrow, J. Haddock, D. Needell, and L. Johnson.
 <p align="center">
 <img width="600px" src="https://github.com/jvendrow/Feature-Selection-on-MyLymeData/blob/master/figures/Table_1.png" alt="logo">
 </p>
+&nbsp;
+<p align="center">
+<img width="600px" src="https://github.com/jvendrow/Feature-Selection-on-MyLymeData/blob/master/figures/Figure_2.png" alt="logo">
+</p>
+&nbsp;
+<p align="center">
+<img width="600px" src="https://github.com/jvendrow/Feature-Selection-on-MyLymeData/blob/master/figures/Table_5png" alt="logo">
+</p>
+&nbsp;
+<p align="center">
+<img width="600px" src="https://github.com/jvendrow/Feature-Selection-on-MyLymeData/blob/master/figures/Figure_8.png" alt="logo">
+</p>
 
-![](figures/Table_1.png?s=200)
-&nbsp;
-![](figures/Figure_2.png)
-&nbsp;
-![](figures/Table_5.png)
-&nbsp;
-![](figures/Figure_8.png)
-&nbsp;
