@@ -2,9 +2,10 @@
 
 <br/> This repository contains the main codebase for the paper: <br/>
 
-*"Feature Selection on Lyme Disease Patient Survey Data."* <br/>
+*"Feature Selection from Lyme Disease Patient Survey Data Using Machine Learning."* <br/>
 By J. Vendrow, J. Haddock, D. Needell, and L. Johnson. <br/>
-*arXiv preprint*, 2020. [[arXiv]](https://arxiv.org/abs/2009.09087)
+*Algorithms* 2020, 13, 334. [[Journal]](https://www.mdpi.com/1999-4893/13/12/334) [[arXiv]](https://arxiv.org/abs/2009.09087)
+
 
 <br /><br />
 
